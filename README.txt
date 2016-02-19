@@ -2,8 +2,8 @@ ECEN602 Assignment Programming Assignment2
 ----------------------------------
 
 Team Number: 10
-Member 1 # Sama, Avani (UIN: 724004372)
-Member 2 # Li, Wan  (UIN: 824009186)
+Member 1 # Sama, Avani
+Member 2 # Li, Wan
 ---------------------------------------
 
 Design:
